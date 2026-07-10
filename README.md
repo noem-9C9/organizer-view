@@ -1,8 +1,10 @@
 # Organizer View 🗂️
 
+![Organizer View](https://github.com/noem-9C9/organizer-view/raw/main/logo.png)
+
 A dynamic, collapsible accordion view for Home Assistant Lovelace. Organize your cards into sleek, foldable sections with a native editing experience.
 
-![Preview](https://raw.githubusercontent.com/YOUR_USERNAME/organizer-view/main/preview.gif)
+![Preview](https://raw.githubusercontent.com/noem-9C9/organizer-view/main/preview.gif)
 
 ## Features
 
